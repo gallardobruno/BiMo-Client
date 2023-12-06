@@ -1,0 +1,22 @@
+/* investigar ccmodules, telwin, starcomponent, getting started, chakra-ui */
+.s-welcome {
+    color: #fff;
+    text-align: center;
+}
+
+.s-continue-button{
+border:0;
+border-radius: 999px;
+padding: 6px 16px;
+font-weight: bold;
+cursor: pointer;
+}
+
+.s-continue-button:hover{
+    background-color: #ddd;
+    transition: .2s ease background-color;
+}
+
+
+
+/* 1:13:42 tw-followcard-button */

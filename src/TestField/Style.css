@@ -1,0 +1,10 @@
+.test{
+    color: #fff;
+    text-align: center;
+}
+
+.test.child{
+    background-color: #323232;
+    color: #fff;
+    text-align: center;
+}
